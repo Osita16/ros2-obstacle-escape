@@ -1,3 +1,6 @@
+
+
+
 # 🤖 ROS2- Obstacle escape
 
 ## 🌌 Introduction
@@ -46,7 +49,7 @@ This creates a simple **sense-and-react behaviour**, similar to the reflexes of 
 
 ## 🎥 Demo
 
-![Demo](demo/demo.gif)
+https://github.com/user-attachments/assets/2cc4d7dc-9a45-451a-9f5e-ce7e97ac06d1
 
 You can record the simulation using:
 
